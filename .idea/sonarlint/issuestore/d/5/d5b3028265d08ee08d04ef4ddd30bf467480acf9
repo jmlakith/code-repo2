@@ -1,0 +1,16 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(°è„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øπÏ†
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ï≥÷õ
+<
+java:S1905"'Remove this unnecessary cast to "long".(Êãªk
+V	java:S125"<This block of commented-out lines of code should be removed.(≥˝˜Û˚ˇˇˇˇ
+C
+java:S1481/"(Remove this unused "sum" local variable.(©å∫…˚ˇˇˇˇ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(óµÏ¡˘ˇˇˇˇ
+r	java:S1279"XRefactor the code in order to not assign to this loop counter from within the loop body.(ºè»≤˚ˇˇˇˇ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı†ù§˘ˇˇˇˇ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı†ù§˘ˇˇˇˇ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©âË
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â·¶≤
